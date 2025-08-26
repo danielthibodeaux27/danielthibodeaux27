@@ -12,8 +12,8 @@ My love for computers and helping others have sparked a strong interest in cyber
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Active Directory & SIEM Implementation        | <a href="https://github.com/danielthibodeaux27/AD-Project/tree/main">Active Directory Project</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/danielthibodeaux27/AD-Project/tree/main">Active Directory Project</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -50,5 +50,5 @@ My love for computers and helping others have sparked a strong interest in cyber
 </div>
 
 ## Projects
-- AD Project (Home Lab)
+- <a href="https://github.com/danielthibodeaux27/AD-Project/tree/main">Active Directory Project</a>
 - SOC Automation Project
