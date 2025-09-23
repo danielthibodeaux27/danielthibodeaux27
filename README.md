@@ -51,4 +51,4 @@ My love for computers and helping others have sparked a strong interest in cyber
 
 ## Projects
 - <a href="https://github.com/danielthibodeaux27/AD-Project/tree/main">Active Directory Project</a>
-- <a href="https://github.com/danielthibodeaux27/Mini-SOC-Environment-Project">Mini SOC Environment</a>
+- <a href="https://github.com/danielthibodeaux27/Mini-SOC-Environment-Project">Mini SOC Environment Project</a>
