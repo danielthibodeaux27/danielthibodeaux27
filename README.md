@@ -14,7 +14,7 @@ My love for computers and helping others have sparked a strong interest in cyber
 |-----------------------------------------------|----------------------------|
 | Active Directory & SIEM Implementation        | <a href="https://github.com/danielthibodeaux27/AD-Project/tree/main">Active Directory Project</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/danielthibodeaux27/AD-Project/tree/main">Active Directory Project</a>|
-| ELK Stack and Sysmon for Log Ingestion         | <a href="https://github.com/danielthibodeaux27/Mini-SOC-Environment-Project/tree/main">Active Directory Project</a>|
+| ELK Stack and Sysmon for Log Ingestion         | <a href="https://github.com/danielthibodeaux27/Mini-SOC-Environment-Project/tree/main">Mini SOC Environment Project</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
