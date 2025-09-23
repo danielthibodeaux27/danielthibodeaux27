@@ -42,7 +42,7 @@ My love for computers and helping others have sparked a strong interest in cyber
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+<a href="https://coursera.org/share/0005a7143ee2856b1bf67700fdfd7888"><img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/-TryHackMe%20SOC%20Level%201%20Certificate-a3ea2a?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
 <img src="https://img.shields.io/badge/-TryHackMe%20Cyber%20Defense%20Certificate-343c42?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20IT%20Support%20Certificate-ff843d?&style=for-the-badge&logo=Google&logoColor=white" />
