@@ -8,7 +8,6 @@ I am currently an IT professional with a profound interest in cybersecurity and 
 My love for computers and helping others have sparked a strong interest in cybersecurity, and I’m now excited to shift my career toward this area, with a particular goal of starting as a Tier 1 SOC Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
