@@ -9,6 +9,7 @@ My love for computers and helping others have sparked a strong interest in cyber
 
 ## Skills
 
+
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Active Directory & SIEM Implementation        | <a href="https://github.com/danielthibodeaux27/AD-Project/tree/main">Active Directory Project</a>|
