@@ -16,6 +16,9 @@ My love for computers and helping others have sparked a strong interest in cyber
 | ELK Stack & Sysmon for Log Ingestion         | <a href="https://github.com/danielthibodeaux27/Mini-SOC-Environment-Project/tree/main">Mini SOC Environment Project</a>|
 | C2 Server & Ticketing System Deployment      | <a href="https://github.com/danielthibodeaux27/Mini-SOC-Environment-Project/tree/main">Mini SOC Environment Project</a>|
 | Endpoint Detection and Response with Elastic EDR                   | <a href="https://github.com/danielthibodeaux27/Mini-SOC-Environment-Project/tree/main">Mini SOC Environment Project</a>|
+| Security Automation with Shuffle SOAR | SOC Automation Lab|
+| Incident Response Planning and Execution | SOC Automation Lab|
+| Case Management with TheHive | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
