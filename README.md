@@ -15,11 +15,11 @@ My love for computers and helping others have sparked a strong interest in cyber
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/danielthibodeaux27/AD-Project/tree/main">Active Directory Project</a>|
 | ELK Stack & Sysmon for Log Ingestion         | <a href="https://github.com/danielthibodeaux27/Mini-SOC-Environment-Project/tree/main">Mini SOC Environment Project</a>|
 | C2 Server & Ticketing System Deployment      | <a href="https://github.com/danielthibodeaux27/Mini-SOC-Environment-Project/tree/main">Mini SOC Environment Project</a>|
-| Endpoint Detection and Response with Elastic EDR                   | <a href="https://github.com/danielthibodeaux27/Mini-SOC-Environment-Project/tree/main">Mini SOC Environment Project</a>|
-| Security Automation with Shuffle SOAR | SOC Automation Lab|
-| Incident Response Planning and Execution | SOC Automation Lab|
-| Case Management with TheHive | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Endpoint Detection and Response with Elastic EDR   | <a href="https://github.com/danielthibodeaux27/Mini-SOC-Environment-Project/tree/main">Mini SOC Environment Project</a>|
+| Security Automation with Shuffle SOAR | <a href="https://github.com/danielthibodeaux27/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
+| Incident Response Planning and Execution | <a href="https://github.com/danielthibodeaux27/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
+| Case Management with TheHive | <a href="https://github.com/danielthibodeaux27/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/danielthibodeaux27/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
 
 ## Tools
 
@@ -54,3 +54,4 @@ My love for computers and helping others have sparked a strong interest in cyber
 ## Projects
 - <a href="https://github.com/danielthibodeaux27/AD-Project/tree/main">Active Directory Project</a>
 - <a href="https://github.com/danielthibodeaux27/Mini-SOC-Environment-Project">Mini SOC Environment Project</a>
+- <a href="https://github.com/danielthibodeaux27/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>
